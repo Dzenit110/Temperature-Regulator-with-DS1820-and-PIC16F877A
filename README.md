@@ -74,7 +74,7 @@ This temperature controller is an effective tool for managing temperature in var
 
 <img width="831" alt="Screenshot_5" src="https://github.com/user-attachments/assets/da0696d5-4e69-40fb-a819-63eaaa8c691c">
 <br>
-<strong>Figure 5:</strong> Display of the project implementation in Proteus (simulation of the project).
+<strong>Figure 5:</strong> Display of the project implementation in Proteus (Simulation of The Project).
 
 </div>
 
