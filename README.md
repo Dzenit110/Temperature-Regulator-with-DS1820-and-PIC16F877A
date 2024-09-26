@@ -48,18 +48,54 @@ This temperature controller is an effective tool for managing temperature in var
 
 <img width="845" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ae6b1762-3fd2-4dab-9f01-58b76ee9045b">
 
-<br>
+<br><br>
 Figure 1 Display of the project simulation in FlowCode, where the algorithm for measuring and reading the temperature with the DS1820 is written
 <br><br>
 
 
 <img width="830" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d6f993d2-7e31-4b1b-b560-037e28fc472c">
 
+<br><br>
+
 Figure 2 Display of temperature values and PW signals (On the right, the symbol of the PIC16F877A shows the used pins in red).
 
 <img width="831" alt="Screenshot_3" src="https://github.com/user-attachments/assets/4b15a27d-8791-4987-be1b-5ec7d4d57cf1">
 
+
+<br><br>
+
 Figure 3 Simulation display of the project (Flow Code)
+
+<br><br>
+
+
+<img width="534" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e8e6d2ad-14ec-4d67-af19-f5e322088294">
+
+
+Figure 4 Display of code conversion to assembly language for the microcontroller and sending the code to the microcontroller
+
+<br><br>
+
+<img width="623" alt="Screenshot_5" src="https://github.com/user-attachments/assets/da0696d5-4e69-40fb-a819-63eaaa8c691c">
+
+Figure 5 Display of the project implementation in Proteus (simulation of the project)
+<br><br>
+
+## 🧰 Languages & Tools <br><br>
+
+<div style="display: inline;">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp"style="margin-right: 10px;" />
+    <img src="https://github.com/user-attachments/assets/c53560da-cbab-4f95-89c7-f80b95beca2c" width="47" height="47" />
+    <img src="https://github.com/user-attachments/assets/f29a2b13-cfc7-4e15-a0b6-1180dc7ba9ca" width="70" height="70"  &nbsp; &nbsp; >
+    <img src="https://github.com/user-attachments/assets/cf1d8532-3d73-4eed-9139-c02b9aa10ddb" width="65" height="65" &nbsp; &nbsp;/>
+    <img src="https://github.com/user-attachments/assets/906cc158-0e38-420f-b0b4-64fc227677e7" width="65" height="65" &nbsp; &nbsp;/>
+
+</div>
+
+
+
+
+
 
 
 
