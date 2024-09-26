@@ -1,0 +1,37 @@
+// SourceBoost Linker Function Resource Usage Dump
+
+#GLOBAL:"global",line = 0,ram = 116.0,rom = 0;
+__div_16_16(unsigned short,unsigned short):"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 116,ram = 9.0,rom = 31;
+__rem_16_16(unsigned short,unsigned short):"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 145,ram = 9.0,rom = 31;
+__mul_8_8__8(unsigned char,unsigned char):"E:\Prg\compiler.trunk\picantc\libc\mul.c",line = 71,ram = 4.0,rom = 13;
+Wdt_Delay_Ms(unsigned char):"C:\Program Files (x86)\Flowcode\v5\CAL\PIC\PIC_CAL_Delay.c",line = 118,ram = 2.0,rom = 11;
+FCM_Pozdravna_poruka(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 1054,ram = 12.0,rom = 124;
+FCD_LCDDisplay0_Cursor(unsigned char,unsigned char):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 450,ram = 2.0,rom = 17;
+FCD_LCDDisplay0_PrintString(unsigned char*,unsigned char):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 546,ram = 4.0,rom = 28;
+FCD_LCDDisplay0_Clear(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 420,ram = 0.0,rom = 17;
+FCD_LCDDisplay0_RawSend(unsigned char,unsigned char):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 337,ram = 3.0,rom = 107;
+FCD_LCDDisplay0_Start(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 387,ram = 0.0,rom = 86;
+FCD_LCDDisplay0_PrintASCII(unsigned char):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 430,ram = 1.0,rom = 6;
+FCD_LCDDisplay0_PrintNumber(signed short):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 488,ram = 7.0,rom = 238;
+FCD_One_Wire0_rx_bit(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 683,ram = 2.0,rom = 24;
+FCD_One_Wire0_tx_bit(unsigned char):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 697,ram = 1.0,rom = 17;
+FCD_One_Wire0_oo_busreset(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 822,ram = 2.0,rom = 42;
+FCD_One_Wire0_oo_tx_byte(unsigned char):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 848,ram = 2.0,rom = 13;
+FCD_One_Wire0_oo_rx_byte(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 861,ram = 4.0,rom = 27;
+FCD_One_Wire0_DS1820_start_conversion(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 970,ram = 3.0,rom = 29;
+FCD_One_Wire0_DS1820_read_scratchpad(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 992,ram = 3.0,rom = 36;
+FCD_One_Wire0_DS1820_get_temp(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 1018,ram = 4.0,rom = 23;
+FC_CAL_EE_Read(unsigned short):"C:\Program Files (x86)\Flowcode\v5\CAL\PIC\PIC_CAL_EEPROM.c",line = 45,ram = 4.0,rom = 16;
+FC_CAL_EE_Write(unsigned short,unsigned char):"C:\Program Files (x86)\Flowcode\v5\CAL\PIC\PIC_CAL_EEPROM.c",line = 147,ram = 4.0,rom = 38;
+FCD_EEPROM0_EEPROMRead(unsigned short):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 1033,ram = 4.0,rom = 9;
+FCD_EEPROM0_WriteEEPROM(unsigned short,unsigned short):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 1040,ram = 4.0,rom = 8;
+main(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 1107,ram = 6.0,rom = 306;
+interrupt(void):"C:\Users\pc\OneDrive\Downloads\Dzenit Vildic-Projeler (1)\Dzenit Vildic-Projeler\DS18B20 sicaklik sensoru\DS18B20 kod\ds18b20kod.c",line = 1339,ram = 0.0,rom = 11;
+delay_us(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 10;
+delay_10us(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 14;
+delay_ms(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 24;
+delay_s(unsigned char):"NoSourceFile",line = 0,ram = 1.0,rom = 15;
+_startup(void):"NoSourceFile",line = 0,ram = 0.0,rom = 52;
+#HEAP_BLOCK: 0, 272, 96;
+#HEAP_BLOCK: 1, 400, 96;
+#HEAP_BLOCK: 2, 200, 40;
