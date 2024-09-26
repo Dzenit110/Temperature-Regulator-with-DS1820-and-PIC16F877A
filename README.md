@@ -1,6 +1,6 @@
 # Temperature-Regulator-with-DS1820-and-PIC16F877A
 
-The code represents a simple temperature controller that uses the DS1820 sensor to measure temperature and allows the user to set a desired temperature through buttons. The results are displayed on an LCD screen, and the equipment is turned on or off based on the current temperature compared to the set point.
+The project represents a simple temperature controller that uses the DS1820 sensor to measure temperature and allows the user to set a desired temperature through buttons. The results are displayed on an LCD screen, and the equipment is turned on or off based on the current temperature compared to the set point.
 
 # Temperature Controller
 
