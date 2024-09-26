@@ -51,26 +51,31 @@ This temperature controller is an effective tool for managing temperature in var
 <img width="831" alt="Screenshot_2" src="https://github.com/user-attachments/assets/ae6b1762-3fd2-4dab-9f01-58b76ee9045b">
 <br>
 <strong>Figure 1:</strong> Display of the project simulation in FlowCode, where the algorithm for measuring and reading the temperature with the DS1820 is written.
-<br><br>
+
+<br><br><br>
 
 <img width="831" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d6f993d2-7e31-4b1b-b560-037e28fc472c">
 <br>
 <strong>Figure 2:</strong> Display of temperature values and PW signals (On the right, the symbol of the PIC16F877A shows the used pins in red).
-<br><br>
+
+<br><br><br>
 
 <img width="831" alt="Screenshot_3" src="https://github.com/user-attachments/assets/4b15a27d-8791-4987-be1b-5ec7d4d57cf1">
 <br>
 <strong>Figure 3:</strong> Simulation display of the project (Flow Code).
-<br><br>
+
+<br><br><br>
 
 <img width="831" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e8e6d2ad-14ec-4d67-af19-f5e322088294">
 <br>
 <strong>Figure 4:</strong> Display of code conversion to assembly language for the microcontroller and sending the code to the microcontroller.
-<br><br>
+
+<br><br><br>
 
 <img width="831" alt="Screenshot_5" src="https://github.com/user-attachments/assets/da0696d5-4e69-40fb-a819-63eaaa8c691c">
 <br>
 <strong>Figure 5:</strong> Display of the project implementation in Proteus (simulation of the project).
+
 <br><br>
 
 </div>
