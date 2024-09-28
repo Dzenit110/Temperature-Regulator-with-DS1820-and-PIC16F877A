@@ -6,7 +6,7 @@ The project represents a simple temperature controller that uses the DS1820 sens
 
 ## Functionality Overview
 
-This code implements a simple temperature controller using the DS1820 sensor for temperature measurement. It allows users to set a desired temperature via buttons. The current temperature and set point are displayed on an LCD screen, and the equipment is turned on or off based on the current temperature in relation to the set point.
+This code implements a simple temperature controller using the DS1820 sensor for temperature measurement. It allows users to set a desired temperature via buttons. The current temperature and set point are displayed on an LCD screen, and the equipment is turned on or off based on the current temperature in relation to the set point..
 
 ## Components
 - DS1820 Wire Digital Thermometer
